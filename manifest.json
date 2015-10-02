@@ -1,0 +1,13 @@
+{
+	"name" : "practiceExtension",
+	"version" : "1.0",
+	"manifest_version" : 2,
+	"icons" : {
+		"16" : "images/RedDaisy_archigraphs.png",
+		"48" : "images/RedDaisy_archigraphs48.png",
+		"128" : "images/RedDaisy_archigraphs128.png"},
+	"browser_action": {
+    	"default_icon": "images/RedDaisy_archigraphs.png",
+    	"default_title": "へいへいへーい",
+    	"default_popup": "popup.html"}
+}
